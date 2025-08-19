@@ -9,7 +9,7 @@
 - ROS 2 compatible (via Micro-ROS or native)
 
 ## 🧠 Powered By
-This project is developed under [OPTINX](https://optinx.tech), a tech innovation lab.
+This project is developed under [OPTINX](https://optinx.netlify.app), a tech innovation lab.
 
 ## 📁 Structure
 - `/src`: Zephyr or C++ kernel code
